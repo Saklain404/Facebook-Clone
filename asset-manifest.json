@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Facebook-Clone/static/css/main.5bde1b8b.chunk.css",
+    "main.js": "/Facebook-Clone/static/js/main.fab955d7.chunk.js",
+    "main.js.map": "/Facebook-Clone/static/js/main.fab955d7.chunk.js.map",
+    "runtime-main.js": "/Facebook-Clone/static/js/runtime-main.35774d12.js",
+    "runtime-main.js.map": "/Facebook-Clone/static/js/runtime-main.35774d12.js.map",
+    "static/js/2.7ed78b32.chunk.js": "/Facebook-Clone/static/js/2.7ed78b32.chunk.js",
+    "static/js/2.7ed78b32.chunk.js.map": "/Facebook-Clone/static/js/2.7ed78b32.chunk.js.map",
+    "index.html": "/Facebook-Clone/index.html",
+    "precache-manifest.d95a363b0f83fc199b944e42f183bf1e.js": "/Facebook-Clone/precache-manifest.d95a363b0f83fc199b944e42f183bf1e.js",
+    "service-worker.js": "/Facebook-Clone/service-worker.js",
+    "static/css/main.5bde1b8b.chunk.css.map": "/Facebook-Clone/static/css/main.5bde1b8b.chunk.css.map",
+    "static/js/2.7ed78b32.chunk.js.LICENSE.txt": "/Facebook-Clone/static/js/2.7ed78b32.chunk.js.LICENSE.txt",
+    "static/media/facebook.png": "/Facebook-Clone/static/media/facebook.c679773f.png",
+    "static/media/mine.jpeg": "/Facebook-Clone/static/media/mine.33c2ecb0.jpeg",
+    "static/media/naeem.jpeg": "/Facebook-Clone/static/media/naeem.9effb8f5.jpeg",
+    "static/media/pandit.jpeg": "/Facebook-Clone/static/media/pandit.fcf23bc2.jpeg",
+    "static/media/panting.jpeg": "/Facebook-Clone/static/media/panting.40618fca.jpeg",
+    "static/media/skln.jpeg": "/Facebook-Clone/static/media/skln.30adf7e6.jpeg",
+    "static/media/zaid.jpeg": "/Facebook-Clone/static/media/zaid.a2226b1a.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35774d12.js",
+    "static/js/2.7ed78b32.chunk.js",
+    "static/css/main.5bde1b8b.chunk.css",
+    "static/js/main.fab955d7.chunk.js"
+  ]
+}
